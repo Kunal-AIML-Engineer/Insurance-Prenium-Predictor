@@ -16,7 +16,7 @@ The project uses a **Random Forest Classifier** wrapped in a **Scikit-Learn Pipe
 - [Feature Engineering & Business Logic](#-feature-engineering--business-logic)
 - [API Endpoints](#-api-endpoints)
 - [Technologies Used](#-technologies-used)
-- [License](#-license)
+
 
 ---
 
@@ -169,8 +169,4 @@ Accepts user attributes and returns the predicted insurance premium category.
 - **Backend API**: FastAPI, Uvicorn, Pydantic
 - **Frontend UI**: Streamlit, Requests
 
----
 
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for details.
